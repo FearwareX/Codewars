@@ -1,0 +1,11 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "FearwareX",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-shiwangme": "^1.0.2"
+  }
+}
