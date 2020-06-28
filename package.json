@@ -5,7 +5,7 @@
   "author": "FearwareX",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^7.2.0",
-    "eslint-config-shiwangme": "^1.0.2"
+    "eslint": "^7.3.1",
+    "eslint-config-shiwangme": "^1.0.3"
   }
 }
