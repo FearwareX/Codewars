@@ -1,3 +1,3 @@
 module.exports = {
-  extends: 'shiwangme'
+  extends: 'rain'
 };
