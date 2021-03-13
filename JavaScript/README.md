@@ -1,4 +1,4 @@
-# 日常
+# 常用 JavaScript 函数
 
 1. intersection 数组取交集
 2. flatten 数组扁平化
