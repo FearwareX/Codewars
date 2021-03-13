@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 /* 数组去重 */
 
 // 1. 利用Set

@@ -1,3 +1,6 @@
 module.exports = {
-  extends: 'rain'
+  extends: 'rain',
+  rules: {
+    'no-unused-vars': 0
+  }
 };
